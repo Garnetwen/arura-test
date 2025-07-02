@@ -63,6 +63,10 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQVEl1sgnkiwbqRQNt
 # (this is done automatically by gh-pages build)
 #
 # ignore stuff
+plugins:
+  - jekyll-remote-theme
+  - collectionbuilder-sheets
+
 exclude:
   [
     docs/,
@@ -76,7 +80,3 @@ exclude:
 # compress CSS output
 sass:
   style: compressed
-
-  plugins:
-    - jekyll-remote-theme
-    - collectionbuilder-sheets
