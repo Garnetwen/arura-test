@@ -17,3 +17,4 @@ gem "jekyll", "~> 3.10"
 gem "jekyll-remote-theme"
 gem "jekyll-seo-tag"
 
+gem "kramdown-parser-gfm"
