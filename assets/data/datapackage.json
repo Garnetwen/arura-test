@@ -2,12 +2,12 @@
     "profile": "data-package",
     "name": "arura-test-data",
     "title": "Arura-Test Data",
-    "description": "Metadata and data derived from Arura-Test. CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills",
+    "description": "Metadata and data derived from Arura-Test. testtesttesttest",
     
     "homepage": "https://garnetwen.github.io/arura-test/",
     "contributors": [
         {
-            "title": "CollectionBuilder",
+            "title": "arura-test",
             "role": "author"
         }
     ],
