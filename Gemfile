@@ -12,3 +12,8 @@ source "https://rubygems.org"
 # gem 'logger'
 # gem 'base64'
 # gem 'ostruct'
+
+gem "jekyll", "~> 3.10"
+gem "jekyll-remote-theme"
+gem "jekyll-seo-tag"
+
