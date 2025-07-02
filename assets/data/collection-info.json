@@ -1,0 +1,17 @@
+{ 
+    "title": "CollectionBuilder-GH",
+    "url": "/",
+    "image": "/objects/", 
+    "description": "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills",
+    "publisher": { 
+        "name": "CollectionBuilder"
+    },
+    "date_start": "",
+    "date_end": "",
+    "objects": {
+        
+    },
+    "data": "/assets/data/datapackage.json",
+    "last_build_date": "2025-07-02"
+}
+
