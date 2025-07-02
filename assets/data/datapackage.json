@@ -4,14 +4,14 @@
     "title": "CollectionBuilder-GH Data",
     "description": "Metadata and data derived from CollectionBuilder-GH. CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills",
     
-    "homepage": "/",
+    "homepage": "https://garnetwen.github.io/arura-test/",
     "contributors": [
         {
             "title": "CollectionBuilder",
             "role": "author"
         }
     ],
-    "image": "/objects/",
+    "image": "/arura-test/objects/",
     "licenses": [
         {
             "name": "CC0-1.0",
