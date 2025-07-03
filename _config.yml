@@ -10,6 +10,7 @@
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
 url: "https://garnetwen.github.io"
+#empty
 
 remote_theme: CollectionBuilder/collectionbuilder-gh
 
@@ -38,8 +39,7 @@ author: arura-test
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection)
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQVEl1sgnkiwbqRQNtzdYH7ckWalhoT9b1fP7h9eH3ifzTD086LELGHFJJq_E4kg1E2WZ8NJqD519eh/pub?gid=0&single=true&output=csv
-
+metadata-csv:https://docs.google.com/spreadsheets/d/e/2PACX-1vQVEl1sgnkiwbqRQNtzdYH7ckWalhoT9b1fP7h9eH3ifzTD086LELGHFJJq_E4kg1E2WZ8NJqD519eh/pub?gid=0&single=true&output=csv
 ##########
 # Site/Organization Branding
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
